@@ -1,0 +1,4 @@
+C# dili microsoftun inkiwaf etdirdiyi en yeni nesil dillerden biridi
+C# .NET in orta seviyyeli proqramlama dillerinnendir.c# istifadesinde frame work qurulmalidir
+ilk cixan c dilidir sonra c++ c diline istinaden yeni platformlarda istifade ucun yaradildi sonra java ve C# dili c++ dan qaynaqlanaraq yaradildi.C# dili java diliynen bir cox benzerliyide var.En boyuk ferqlerinnen biride obyekt yonumlu olmasidi
+C# dili obyekt yonumlu diller icinde en inkishaf etmiw dildir

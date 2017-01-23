@@ -1,0 +1,4 @@
+Ruby dilide obyekt yonumlu bir dildir. Ruby dili Yukihiro Matsumoto terefinnen yaradilmiw ve inkiwaf etdirilmiw bir dildir
+Bu dil demek olarki butun sistemlernen iwleye bilir
+Bu dil Ada,Perl,Smalltalk,Lisp,Eiffel kimi programlama dillerinden inkiwaf etdirilib.Cox raaht bir dil kimide taninir,geniw standart kitabxanasi var
+Ruby dili perl ve python diline cox yaxin dildir 

@@ -1,0 +1,3 @@
+Cobol(COmmon Business Oriented Language)programlama dili esasen iw yerlerinin idaresinde ve ticaretle bagli bagli hazirlanmiw bir dildi.Dunyada bir cox sahede istifade edilir bu dil.Bura Banklarda daxildir.Cobol 4 hisseden ibaretdi.Esasen ticaretle mewqul olan bir qurumun muwteriyle olan elaqesini kompyuter sahesine getiren bir dilde demek olar
+
+
